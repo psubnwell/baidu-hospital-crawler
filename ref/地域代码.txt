@@ -1,0 +1,98 @@
+<dt>请选择地域</dt>
+                                                                        <dd data-init="0" data-value="9">
+                                    <a href="javascript: void(0)" data-value="9" title="安徽">安徽</a>
+                </dd>
+                                                <dd data-init="0" data-value="1">
+                                    <a href="javascript: void(0)" data-value="1" title="北京">北京</a>
+                </dd>
+                                                                                        <dd class="item-selected" data-init="1" data-value="33">
+                                    <a href="javascript: void(0)" data-value="33" title="重庆">重庆</a>
+                </dd>
+                                                <dd data-init="0" data-value="5">
+                                    <a href="javascript: void(0)" data-value="5" title="福建">福建</a>
+                </dd>
+                                                <dd data-init="0" data-value="11">
+                                    <a href="javascript: void(0)" data-value="11" title="甘肃">甘肃</a>
+                </dd>
+                                                <dd data-init="0" data-value="4">
+                                    <a href="javascript: void(0)" data-value="4" title="广东">广东</a>
+                </dd>
+                                                <dd data-init="0" data-value="12">
+                                    <a href="javascript: void(0)" data-value="12" title="广西">广西</a>
+                </dd>
+                                                <dd data-init="0" data-value="10">
+                                    <a href="javascript: void(0)" data-value="10" title="贵州">贵州</a>
+                </dd>
+                                                <dd data-init="0" data-value="8">
+                                    <a href="javascript: void(0)" data-value="8" title="海南">海南</a>
+                </dd>
+                                                <dd data-init="0" data-value="13">
+                                    <a href="javascript: void(0)" data-value="13" title="河北">河北</a>
+                </dd>
+                                                <dd data-init="0" data-value="14">
+                                    <a href="javascript: void(0)" data-value="14" title="河南">河南</a>
+                </dd>
+                                                <dd data-init="0" data-value="15">
+                                    <a href="javascript: void(0)" data-value="15" title="黑龙江">黑龙江</a>
+                </dd>
+                                                <dd data-init="0" data-value="16">
+                                    <a href="javascript: void(0)" data-value="16" title="湖北">湖北</a>
+                </dd>
+                                                <dd data-init="0" data-value="17">
+                                    <a href="javascript: void(0)" data-value="17" title="湖南">湖南</a>
+                </dd>
+                                                <dd data-init="0" data-value="18">
+                                    <a href="javascript: void(0)" data-value="18" title="吉林">吉林</a>
+                </dd>
+                                                <dd data-init="0" data-value="19">
+                                    <a href="javascript: void(0)" data-value="19" title="江苏">江苏</a>
+                </dd>
+                                                <dd data-init="0" data-value="20">
+                                    <a href="javascript: void(0)" data-value="20" title="江西">江西</a>
+                </dd>
+                                                <dd data-init="0" data-value="21">
+                                    <a href="javascript: void(0)" data-value="21" title="辽宁">辽宁</a>
+                </dd>
+                                                <dd data-init="0" data-value="22">
+                                    <a href="javascript: void(0)" data-value="22" title="内蒙古">内蒙古</a>
+                </dd>
+                                                <dd data-init="0" data-value="23">
+                                    <a href="javascript: void(0)" data-value="23" title="宁夏">宁夏</a>
+                </dd>
+                                                <dd data-init="0" data-value="24">
+                                    <a href="javascript: void(0)" data-value="24" title="青海">青海</a>
+                </dd>
+                                                <dd data-init="0" data-value="25">
+                                    <a href="javascript: void(0)" data-value="25" title="山东">山东</a>
+                </dd>
+                                                <dd data-init="0" data-value="26">
+                                    <a href="javascript: void(0)" data-value="26" title="山西">山西</a>
+                </dd>
+                                                <dd data-init="0" data-value="27">
+                                    <a href="javascript: void(0)" data-value="27" title="陕西">陕西</a>
+                </dd>
+                                                <dd data-init="0" data-value="28">
+                                    <a href="javascript: void(0)" data-value="28" title="四川">四川</a>
+                </dd>
+                                                <dd data-init="0" data-value="2">
+                                    <a href="javascript: void(0)" data-value="2" title="上海">上海</a>
+                </dd>
+                                                <dd data-init="0" data-value="29">
+                                    <a href="javascript: void(0)" data-value="29" title="西藏">西藏</a>
+                </dd>
+                                                <dd data-init="0" data-value="30">
+                                    <a href="javascript: void(0)" data-value="30" title="新疆">新疆</a>
+                </dd>
+                                                <dd data-init="0" data-value="3">
+                                    <a href="javascript: void(0)" data-value="3" title="天津">天津</a>
+                </dd>
+                                                <dd data-init="0" data-value="31">
+                                    <a href="javascript: void(0)" data-value="31" title="云南">云南</a>
+                </dd>
+                                                <dd data-init="0" data-value="32">
+                                    <a href="javascript: void(0)" data-value="32" title="浙江">浙江</a>
+                </dd>
+                    </dl>
+                                                        <input type="hidden" data-value="33" data-provid="33">
+                        <dl class="block-city">
+            <dt>请选择城市</dt>
