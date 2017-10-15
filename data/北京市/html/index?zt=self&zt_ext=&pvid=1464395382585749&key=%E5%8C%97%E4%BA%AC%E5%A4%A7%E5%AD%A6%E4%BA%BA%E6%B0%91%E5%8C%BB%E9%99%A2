@@ -1,0 +1,1428 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" ><meta name="keyword" content="医生推荐,医生简介,医生科室,医生照片,医院挂号,医院地址,医院电话,医院官网,三甲医院"><meta name="description" content="北京大学人民医院电话：北京大学人民医院地址：北京市西城区西直门南大街11号。北京大学人民医院(原北京中央医院)是中国人自行筹资建设和管理的第一家综合性西医医院，最初命名为“北京中央医院”，开放床位1693张，设有39个临床科室、17个医技科室；拥有血液内科、心血管内科、骨科、妇产科、眼科、泌尿外科、儿科、皮肤科、风湿免疫科、肾内科、病理科11个国家级重点学科；血液病研究所、肝病研究所、关节病研究所、应用碎石技术研究所4个北京大学级研究所。医院排名、重点科室、专家大夫、评价怎么样、预约挂号、停诊公告。百度医生，全国最大预约挂号平台。"><title>北京大学人民医院预约挂号,推荐专家-百度医生</title>
+        
+<!--[if IE]>
+<script src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/js/html5.js"></script>
+<![endif]-->
+<script src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/js/template.min.js"></script>
+<script>
+    (function() {
+        var img = new Image(1, 1);
+        img.src = "https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png";
+    })();
+    template.config({sTag: '<#', eTag: '#>'});
+    var _hmt = _hmt || [];
+    (function() {
+        var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        var hm = document.createElement("script");
+        hm.src = _bdhmProtocol + "hm.baidu.com/hm.js?2129ef9891a442299befc9c664fc73e3";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+ <link rel="stylesheet" href="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/infoConstruct/hospital/index.css" /></head><body><style>
+    * {
+    font-family: 'Microsoft YaHei','微软雅黑',tahoma,arial,'Hiragino Sans GB',sans-serif;
+}
+</style>
+    <header class="ys-header">
+    <div class="container-ceiling">
+        <div class="container-ceiling-content">
+            <div class="container-mobile">
+                <span class="mobile-info">
+                    <label class="lbl-user ys-util-text-min ys-util-text-auxiliary">
+                        <i class="ys-icon-mobile ys-util-margin-r5 ys-util-text-auxiliary"></i>手机版
+                    </label>
+                    <ul class="qrcode-mobile">
+                        <li class="item-qrcode">
+                            <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/home/banner_code.png" />
+                        </li>
+                        <li class="item-desc ys-util-text-min ys-util-text-auxiliary">
+                            下载手机客户端<br>随时随地约医生
+                        </li>
+                    </ul>
+                </span>
+            </div>
+            <div class="container-info">
+                                <span class="login-info">
+                    <a id="Login" class="ys-util-btn-min btn-login">登录</a>
+                    <a class="ys-util-btn-min btn-register" href="https://passport.baidu.com/v2/?reg&tpl=bddoctor&u=" target="_blank">注册</a>
+                </span>
+                                <a class="header-help ys-util-text-min ys-util-text-auxiliary" href="http://yi.baidu.com/pc/helpcenter/help?zt=self&zt_ext=&pvid=1464532045824888" target="_blank">帮助中心</a>
+            </div>
+        </div>
+    </div>
+            <div class="header-topList">
+                <span class="logo">
+                    <a href="http://yi.baidu.com/pc" title="首页">
+                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/logo.png" alt="百度医生">
+                    </a>
+                </span>
+                                <div class="search-box">
+                    <p class="search-content">
+                        <i class="ys-icon-search ys-util-text-small"></i>
+                                                    <input type="text" value="北京大学人民医院" placeholder="请输入医院/科室/疾病/症状/医生姓名" class="ys-util-text-min" id="search-text" data-value="请输入医院/科室/疾病/症状/医生姓名">
+                                                <span class="btn-search" id="search-btn">搜索</span>
+                    </p>
+                    <div class="search-suggest-layer" style="display:none;border:1px #eaeaea solid;margin: -1px 0 0 4px;width:350px;background-color:#fff;border-bottom-left-radius:4px;border-bottom-right-radius:4px;position:absolute;z-index:1;"></div>
+                </div>
+                <div class="header-tabList">
+                    <ul>
+                        <li><a href="http://yi.baidu.com/pc" title="">首页</a></li>
+                        <li><a href="http://yi.baidu.com/pc/hospital/listpage?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0" title="">找医院</a></li>
+                        <li><a href="http://yi.baidu.com/pc/doctor/listFanzhi?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0" title="">找科室</a></li>
+                        <li><a href="http://yi.baidu.com/pc/doctor/listFanzhi?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0" title="">找医生</a></li>
+                                                    <li style="margin-right:129px;"><a href="http://yi.baidu.com/pc/hospital/nearby?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0" title="">身边医院</a></li>
+                                            </ul>
+                </div>
+                <form method="get" id="search-form">
+                                </form>
+            </div>
+</header><div class="ys-hospital"><article class="container-frame"><section class="container-crumb ys-util-text-auxiliary"><h5><a class="ys-util-text-min ys-util-text-auxiliary a-hover" href="http://yi.baidu.com/pc">首页</a></h5>&nbsp;>&nbsp;<h5><a class="ys-util-text-min ys-util-text-auxiliary a-hover" href="http://yi.baidu.com/pc/hospital/listpage?zt=self&zt_ext=&pvid=1464532045824888&provId=1&cityId=1&regionId=0">北京</a></h5>&nbsp;>&nbsp;<h5><label class="ys-util-text-min ys-util-text-auxiliary">北京大学人民医院</label></h5></section><section class="container-summary"><div class="summary-img ys-util-img"><a class="ys-img-lazy-frame" href="javascript:void(0);"><img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/8601a18b87d6277f81cbf6402e381f30e824fce9.jpg" alt="北京大学人民医院"></a></div><div class="summart-list"><div class="summary-row" style="line-height:16px;"><h1 class="ys-util-text-medium">北京大学人民医院</h1><span class="ys-util-margin-l12"><img class="hospitalLevel-icon ys-util-margin-r6" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png"><img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png"></span></div><div class="summary-row ys-util-margin-t8"><h3 class="ys-util-text-min" style="color: #ff9026">复旦大学中国最佳医院 全国综合榜 第11名 | 华北区综合实力榜 第4名</h3></div><div class="summary-row ys-util-margin-t8"><span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+<span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.8</span></div><div class="summary-row ys-util-margin-t8"><h6 class="ys-util-text-normal ys-util-text-secondary">医院电话：</h6><label class="ys-util-text-normal ys-util-margin-l12">01088326666</label></div><div class="summary-row ys-util-margin-t8"><h6 class="ys-util-text-normal ys-util-text-secondary">重点科室：</h6><label class="ys-util-margin-l12 ys-util-inblock" style="width: 550px;height: 14px;overflow: hidden;"><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35489&hosId=3204" title="创伤骨科">创伤骨科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35510&hosId=3204" title="风湿免疫科">风湿免疫科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=63438&hosId=3204" title="妇产科">妇产科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35491&hosId=3204" title="妇科">妇科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35503&hosId=3204" title="肝胆外科">肝胆外科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35511&hosId=3204" title="骨关节科">骨关节科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35512&hosId=3204" title="骨肿瘤科">骨肿瘤科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=18876&hosId=3204" title="呼吸内科">呼吸内科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35506&hosId=3204" title="脊柱外科">脊柱外科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35496&hosId=3204" title="泌尿外科">泌尿外科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35498&hosId=3204" title="皮肤性病科">皮肤性病科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35495&hosId=3204" title="普通外科">普通外科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35487&hosId=3204" title="乳腺中心">乳腺中心</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35494&hosId=3204" title="心血管内科">心血管内科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35493&hosId=3204" title="心脏中心">心脏中心</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35505&hosId=3204" title="胸外科">胸外科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35508&hosId=3204" title="血管外科">血管外科</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35507&hosId=3204" title="血液病研究所">血液病研究所</a></h6><h6 class="ys-util-text-normal ys-util-margin-r12 ys-util-inblock"><a class="ys-util-text-link" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35499&hosId=3204" title="眼科">眼科</a></h6></label></div><div class="summary-row ys-util-margin-t8 hospital-address"><h6 class="ys-util-text-normal ys-util-text-secondary">医院地址：</h6><label class="ys-util-text-normal ys-util-margin-l12">北京市西城区西直门南大街11号</label><a id="show-maxmap-a" class="ys-util-margin-l12 ys-util-text-link ys-util-text-normal" href="http://api.map.baidu.com/marker?location=39.942445,116.361842&title=北京大学人民医院&content=北京市西城区西直门南大街11号&output=html" title=""  target="_blank"><img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_map.png" class="ys-util-margin-r6 ys-util-text-link pic-map" />查看地图</a></div></div><div class="summary-right"><p class="service-but"><a href="http://yi.baidu.com/pc/hospital/alldoc?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName">预约挂号</a></p><p class="service-text ys-util-text-secondary">有优质医生<span class="ys-util-text-primary">188</span>人<label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>完成服务<span class="ys-util-text-primary">10745</span>次</p></div></section></article><div id="Tab" class="container-tab"><ul id="fastTop" class="container-tab-navigate"><li class="item-tab item-tab-active"><a href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName" target="_self" title="综合"><h3 class="ys-util-text-small">综合</h3></a></li><li class="item-tab"><a href="http://yi.baidu.com/pc/hospital/alldoc?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName" target="_self" title="预约挂号"><h3 class="ys-util-text-small">预约挂号</h3></a></li><li class="item-tab"><a href="http://yi.baidu.com/pc/hospital/alldep?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName" target="_self" title="全部科室"><h3 class="ys-util-text-small">全部科室</h3></a></li><li class="item-tab"><a href="http://yi.baidu.com/pc/hospital/info?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName" target="_self" title="医院信息"><h3 class="ys-util-text-small">医院信息</h3></a></li><li class="item-tab"><a href="http://yi.baidu.com/pc/hospital/rule?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName" target="_self" title="就诊指南"><h3 class="ys-util-text-small">就诊指南</h3></a></li><li class="item-tab"><a href="http://yi.baidu.com/pc/hospital/evaluationpage?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName" target="_self" title="用户评价"><h3 class="ys-util-text-small">用户评价</h3><span class="ys-util-text-small ys-util-text-secondary item-tab-extInfo">&nbsp;(&nbsp;1775&nbsp;)</span></a></li></ul><div class="border-bottom"></div></div><div class="map-layer" id="map-layer"><div class="container-tab-content"><article class="container-main"><div id="colligation" class="tab-colligation">
+		<div class="container-hospital-info">
+		<a href="http://yi.baidu.com/pc/hospital/info?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName"><span class="title-but ys-util-text-link">查看全部&nbsp;<i class="ys-util-text-link ys-icon ys-icon-arrow-right"></i></span></a>
+		<h3 class="ys-util-text-medium">医院信息</h3>
+		<p class="ys-util-text-smaller ys-util-margin-t9 ys-util-margin-b20">北京大学人民医院(原北京中央医院)是中国人自行筹资建设和管理的第一家综合性西医医院，最初命名为“北京中央医院”，开放床位1693张，设有39个临床科室、17个医技科室；拥有血液内科、心血管内科、骨科、妇产科、眼科、泌尿外科、儿科、皮肤科、风湿免疫科、肾内科、病理科11个国家级重点学科；血液病研究所、肝病研究所、关节病研究所、应用碎石技术研究所4个北京大学级研究所。</p>
+	</div>
+			<div class="container-key-office">
+				<h3 class="ys-util-text-medium ys-util-show ys-util-margin-b15">重点科室</h3>
+		<ul class="list-office ys-util-margin-t15 ys-util-margin-b20 ys-util-margin-l10">
+						<li class="ys-util-margin-r25 ys-util-margin-b20">
+				<div class="info-office">
+					<a href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35489" title="创伤骨科">
+				                    <img class="pic-office" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/zhuanke-bg_normal.png" />
+                    <img class="pic-office-hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/zhuanke-bg_hover.png" />
+                					<h4 class="ys-util-text-small">创伤骨科</h4></a>
+				</div>
+				<dl class="list-doctor">
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="陈建海" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139633" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/79f0f736afc379315c112e55edc4b74543a91154.jpg" alt="陈建海">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="陈建海" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139633" target="_blank">陈建海</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">副主任医师</p>
+					</dd>
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="张殿英" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=138538" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/960a304e251f95cac5b339cacf177f3e67095203.jpg" alt="张殿英">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="张殿英" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=138538" target="_blank">张殿英</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">主任医师</p>
+					</dd>
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="党育" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141542" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/d000baa1cd11728be1c5a319cefcc3cec3fd2c24.jpg" alt="党育">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="党育" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141542" target="_blank">党育</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">副主任医师</p>
+					</dd>
+								</dl>
+			</li>
+						<li class="ys-util-margin-b20">
+				<div class="info-office">
+					<a href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35510" title="风湿免疫科">
+				                    <img class="pic-office" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/zhuanke-bg_normal.png" />
+                    <img class="pic-office-hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/zhuanke-bg_hover.png" />
+                					<h4 class="ys-util-text-small">风湿免疫科</h4></a>
+				</div>
+				<dl class="list-doctor">
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="杨铁生" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140584" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/c8177f3e6709c93d6ac0a58b993df8dcd100549f.jpg" alt="杨铁生">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="杨铁生" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140584" target="_blank">杨铁生</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">主任医师</p>
+					</dd>
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="张学武" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140652" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/9e3df8dcd100baa1efd9eec74110b912c9fc2ed0.jpg" alt="张学武">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="张学武" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140652" target="_blank">张学武</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">主任医师</p>
+					</dd>
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="苏茵" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139526" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/b3fb43166d224f4ab6d8db6f0ff790529822d10d.jpg" alt="苏茵">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="苏茵" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139526" target="_blank">苏茵</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">主任医师</p>
+					</dd>
+								</dl>
+			</li>
+						<li class="ys-util-margin-r25 ys-util-margin-b20">
+				<div class="info-office">
+					<a href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=63438" title="妇产科">
+				                    <img class="pic-office" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/zhuanke-bg_normal.png" />
+                    <img class="pic-office-hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/zhuanke-bg_hover.png" />
+                					<h4 class="ys-util-text-small">妇产科</h4></a>
+				</div>
+				<dl class="list-doctor">
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="周敬伟" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=171564" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/ac4bd11373f08202177e38c24dfbfbedaa641b5a.jpg" alt="周敬伟">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="周敬伟" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=171564" target="_blank">周敬伟</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">主治医师</p>
+					</dd>
+								</dl>
+			</li>
+						<li class="ys-util-margin-b20">
+				<div class="info-office">
+					<a href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35491" title="妇科">
+				                    <img class="pic-office" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/zhuanke-bg_normal.png" />
+                    <img class="pic-office-hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/zhuanke-bg_hover.png" />
+                					<h4 class="ys-util-text-small">妇科</h4></a>
+				</div>
+				<dl class="list-doctor">
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="魏丽惠" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139507" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/32fa828ba61ea8d3ecb0da78910a304e251f583f.jpg" alt="魏丽惠">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="魏丽惠" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139507" target="_blank">魏丽惠</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">主任医师</p>
+					</dd>
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="崔恒" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140906" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/b7fd5266d0160924977b0b67d20735fae6cd346b.jpg" alt="崔恒">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="崔恒" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140906" target="_blank">崔恒</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">主任医师</p>
+					</dd>
+									<dd>
+						<p class="ys-util-margin-b10">
+							<a class="ys-img-lazy-frame" title="杨欣" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140873" target="_blank">
+								<img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/c9fcc3cec3fdfc03bbc54bc4d23f8794a4c22608.jpg" alt="杨欣">
+							</a>
+						</p>
+						<h5 class="doctor-name ys-util-margin-b8">
+							<a class="a-hover ys-util-text-default" title="杨欣" href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140873" target="_blank">杨欣</a>
+						</h5>
+						<p class="doctor-medtitle ys-util-text-secondary">主任医师</p>
+					</dd>
+								</dl>
+			</li>
+					</ul>
+	</div>
+			<div class="container-common-office">
+		<a href="http://yi.baidu.com/pc/hospital/alldep?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName" title=""><span class="title-but ys-util-text-link">查看全部&nbsp;<i class="ys-util-text-link ys-icon-arrow-right"></i></span></a>
+		<h3 class="ys-util-text-medium ys-util-show ys-util-margin-b15">门诊科室</h3>
+		<!-- Tab页: 全部科室 -->
+<div id="allOffice" class="tab-allOffice">
+	<div class="container-common-office">
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">内科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35510" title="风湿免疫科">风湿免疫科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35502" title="肝病研究所">肝病研究所</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110504" title="感染科">感染科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=18876" title="呼吸内科">呼吸内科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110484" title="内分泌科">内分泌科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35500" title="神经内科">神经内科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35504" title="肾内科">肾内科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35494" title="心血管内科">心血管内科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35493" title="心脏中心">心脏中心</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35507" title="血液病研究所">血液病研究所</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">外科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35503" title="肝胆外科">肝胆外科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35496" title="泌尿外科">泌尿外科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35495" title="普通外科">普通外科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110490" title="器官移植研究所">器官移植研究所</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35487" title="乳腺中心">乳腺中心</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35501" title="神经外科">神经外科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35492" title="心外科">心外科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35505" title="胸外科">胸外科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35508" title="血管外科">血管外科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">妇产科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35488" title="产科">产科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=63438" title="妇产科">妇产科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35491" title="妇科">妇科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35509" title="计划生育与生殖医学科">计划生育与生殖医学科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">儿科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=73321" title="儿科">儿科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">骨科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35489" title="创伤骨科">创伤骨科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35511" title="骨关节科">骨关节科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35506" title="脊柱外科">脊柱外科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">口腔科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35490" title="口腔科">口腔科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">眼科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35499" title="眼科">眼科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">中医科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=74786" title="中医科">中医科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">精神心理科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126898" title="心理门诊">心理门诊</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">皮肤性病科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35498" title="皮肤性病科">皮肤性病科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">肿瘤科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35512" title="骨肿瘤科">骨肿瘤科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">男科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35497" title="男科">男科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">疼痛科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126897" title="疼痛医学科">疼痛医学科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">耳鼻喉科</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=74318" title="耳鼻喉科">耳鼻喉科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+				<table class="ys-util-margin-b15 list-office ys-util-border-big" cellpadding="0" cellspacing="0">
+			<tr>
+								<td class="primary-office">
+					<h4 class="ys-util-text-normal ys-util-text-unhighlight">临床其他</h4>
+					<img class="arrow-icon normal" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_normal.png">
+					<img class="arrow-icon hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/arrow_hover.png" style="display:none;">
+				</td>
+								<td class="secondary-office">
+					<dl class="">
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126894" title="检验科">检验科</a></h4>
+						</dd>
+											<dd>
+							<h4><a class="a-hover ys-util-text-normal" href="http://yi.baidu.com/pc/admindepartment/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126895" title="临床营养科">临床营养科</a></h4>
+						</dd>
+										</dl>
+				</td>
+			</tr>
+		</table>
+			</div>
+</div>
+	</div>
+	    	<div class="container-user-evaluation">
+        <a href="http://yi.baidu.com/pc/hospital/evaluationpage?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName">
+            <span class="title-but ys-util-text-link">查看全部&nbsp;<i class="ys-util-text-link ys-icon-arrow-right"></i></span>
+        </a>
+        <h3 class="ys-util-text-medium ys-util-margin-b10 ys-util-margin-t35 ys-util-show">用户评价&nbsp;<span class="ys-util-text-small-l">(&nbsp;1775&nbsp;)</span></h3>
+                <ul class="summary-comment">
+    <li>
+        <p class="ys-util-text-default ys-util-text-smaller">
+            总推荐度
+            <i class="comment-score ys-util-text-primary ys-util-text-big">9.9</i>
+        </p>
+        <div class="ys-util-text-center">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+            </span>
+
+        </div>
+    </li>
+    <li>
+        <p class="ys-util-text-default ys-util-text-smaller">
+            治疗效果
+            <i class="comment-score ys-util-text-primary ys-util-text-big">9.8</i>
+        </p>
+        <div class="ys-util-text-center">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+            </span>
+
+        </div>
+    </li>
+    <li>
+        <p class="ys-util-text-default ys-util-text-smaller">
+            医生态度
+            <i class="comment-score ys-util-text-primary ys-util-text-big">9.9</i>
+        </p>
+        <div class="ys-util-text-center">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-normal" />
+                        
+            </span>
+
+        </div>
+    </li>
+</ul>
+
+        <ul class="list-comment" id="list-comment">
+        <li class="item-comment">
+        <div class="item-comment-summary">
+            <span>总推荐度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+            <span>医生态度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+            <span>治疗效果&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+        </div>
+        <div class="item-comment-user"><!--  ys-icon ys-icon-user -->
+            <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/user-photo.png" class="item-comment-photo">
+            <span>1***5</span>
+        </div>
+        <div class="item-comment-detail">
+            <dl>
+                <dd class="item-comment-header">
+                    <h6 class="ys-util-text-min item-comment-lbl">治疗疾病：</h6>甲状腺炎
+                </dd>
+                <dd class="item-comment-row ys-util-text-smaller">胡主任非常好</dd>
+                <dd class="item-comment-footer">
+                    <label class="item-comment-time">2016-05-28 12:03:30</label>
+                    <h6 class="ys-util-text-min item-comment-lbl">就诊医生：</h6>
+                    <span>
+                                                <a href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=298882" title="胡肇衡" class="ys-util-text-link" target="_blank">胡肇衡</a>
+                                                                        <span class="ys-util-text-min item-comment-lbl ys-util-margin-lr5">(内分泌科)</span>
+                                            </span>
+                </dd>
+            </dl>
+                    </div>
+    </li>
+        <li class="item-comment">
+        <div class="item-comment-summary">
+            <span>总推荐度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+            <span>医生态度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+            <span>治疗效果&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+        </div>
+        <div class="item-comment-user"><!--  ys-icon ys-icon-user -->
+            <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/user-photo.png" class="item-comment-photo">
+            <span>来自好大夫在线</span>
+        </div>
+        <div class="item-comment-detail">
+            <dl>
+                <dd class="item-comment-header">
+                    <h6 class="ys-util-text-min item-comment-lbl">治疗疾病：</h6>肾结石
+                </dd>
+                <dd class="item-comment-row ys-util-text-smaller">首先要感謝叶大夫，叶大夫看病很认真，医生祥细的解释了病情，病人听的明白，本次病情还须要进一步检查确认</dd>
+                <dd class="item-comment-footer">
+                    <label class="item-comment-time">2016-05-27 16:18:11</label>
+                    <h6 class="ys-util-text-min item-comment-lbl">就诊医生：</h6>
+                    <span>
+                                                <a href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141429" title="叶雄俊" class="ys-util-text-link" target="_blank">叶雄俊</a>
+                                                                        <span class="ys-util-text-min item-comment-lbl ys-util-margin-lr5">(泌尿外科)</span>
+                                            </span>
+                </dd>
+            </dl>
+                    </div>
+    </li>
+        <li class="item-comment">
+        <div class="item-comment-summary">
+            <span>总推荐度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">4.0</i></span>
+            <span>医生态度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">2.0</i></span>
+            <span>治疗效果&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">8.0</i></span>
+        </div>
+        <div class="item-comment-user"><!--  ys-icon ys-icon-user -->
+            <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/user-photo.png" class="item-comment-photo">
+            <span>1***7</span>
+        </div>
+        <div class="item-comment-detail">
+            <dl>
+                <dd class="item-comment-header">
+                    <h6 class="ys-util-text-min item-comment-lbl">治疗疾病：</h6>其他
+                </dd>
+                <dd class="item-comment-row ys-util-text-smaller">客观的说吧，从来不评论，包括在淘宝，但是今天必须要说一下，大夫态度很好，由于是特需号所以早上去一直等到12；30才看上，医生可能着急去吃饭，所以说不用做检查了，因为现在的症状不在发病期不用做检查来判断，做检查也相当于一次外创对身体不好。劝解的非常有水平，让你没法拒绝，非常圆滑，最后结果就是等了一上午，交了100元挂号费，医生说等以后发病时再来检查吧，现在看不出什么。我当然是身体最近不舒服才去做检查，但不代表看病时没有明显症状就不用检查了啊。所以只能说看大夫就是碰运气吧，建议大家做别的选择。</dd>
+                <dd class="item-comment-footer">
+                    <label class="item-comment-time">2016-05-27 15:54:58</label>
+                    <h6 class="ys-util-text-min item-comment-lbl">就诊医生：</h6>
+                    <span>
+                                                <a href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141117" title="周蓉" class="ys-util-text-link" target="_blank">周蓉</a>
+                                                                        <span class="ys-util-text-min item-comment-lbl ys-util-margin-lr5">(妇科)</span>
+                                            </span>
+                </dd>
+            </dl>
+                    </div>
+    </li>
+        <li class="item-comment">
+        <div class="item-comment-summary">
+            <span>总推荐度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+            <span>医生态度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+            <span>治疗效果&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+        </div>
+        <div class="item-comment-user"><!--  ys-icon ys-icon-user -->
+            <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/user-photo.png" class="item-comment-photo">
+            <span>来自好大夫在线</span>
+        </div>
+        <div class="item-comment-detail">
+            <dl>
+                <dd class="item-comment-header">
+                    <h6 class="ys-util-text-min item-comment-lbl">治疗疾病：</h6>鼻窦炎，鼻息肉
+                </dd>
+                <dd class="item-comment-row ys-util-text-smaller">感谢医生又细心又耐心的治疗，手术后感觉很好呼吸通常了嗅觉正在恢复，非常感谢</dd>
+                <dd class="item-comment-footer">
+                    <label class="item-comment-time">2016-05-27 13:45:03</label>
+                    <h6 class="ys-util-text-min item-comment-lbl">就诊医生：</h6>
+                    <span>
+                                                <a href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=201815" title="王旻" class="ys-util-text-link" target="_blank">王旻</a>
+                                                                        <span class="ys-util-text-min item-comment-lbl ys-util-margin-lr5">(耳鼻喉科)</span>
+                                            </span>
+                </dd>
+            </dl>
+                    </div>
+    </li>
+        <li class="item-comment">
+        <div class="item-comment-summary">
+            <span>总推荐度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+            <span>医生态度&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+            <span>治疗效果&nbsp;&nbsp;<i class="item-comment-score ys-util-text-smaller ys-util-text-primary">10.0</i></span>
+        </div>
+        <div class="item-comment-user"><!--  ys-icon ys-icon-user -->
+            <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/user-photo.png" class="item-comment-photo">
+            <span>1***4</span>
+        </div>
+        <div class="item-comment-detail">
+            <dl>
+                <dd class="item-comment-header">
+                    <h6 class="ys-util-text-min item-comment-lbl">治疗疾病：</h6>习惯性流产
+                </dd>
+                <dd class="item-comment-row ys-util-text-smaller">刘医生亲切，在她面前没有恐惧和压力感</dd>
+                <dd class="item-comment-footer">
+                    <label class="item-comment-time">2016-05-27 12:03:15</label>
+                    <h6 class="ys-util-text-min item-comment-lbl">就诊医生：</h6>
+                    <span>
+                                                <a href="http://yi.baidu.com/pc/doctor/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=201835" title="刘春兰" class="ys-util-text-link" target="_blank">刘春兰</a>
+                                                                        <span class="ys-util-text-min item-comment-lbl ys-util-margin-lr5">(计划生育与生殖医学科)</span>
+                                            </span>
+                </dd>
+            </dl>
+                    </div>
+    </li>
+    </ul>
+
+
+        <p class="btn-more"><a href="http://yi.baidu.com/pc/hospital/evaluationpage?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName">查看更多患者评价&nbsp;<i class="ys-util-text-link ys-icon-arrow-right"></i></a></p>
+	</div>
+        	<div class="container-similar-hospital">
+		<h3 class="ys-util-text-medium">同类医院</h3>
+		<ul class="similar-tab-list">
+								<li class="ys-util-text-small tab-active">
+			<div class="border-active"></div><span>综合</span></li>
+								<li class="ys-util-text-small">
+			<div class="border-active"></div><span>同区域</span></li>
+								<li class="ys-util-text-small">
+			<div class="border-active"></div><span>同级别</span></li>
+				</ul>
+						<ul class="ys-util-clear similar-hospital-list list-active">
+		
+		        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2" title="北京协和医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/4d086e061d950a7bdf3e45ce0cd162d9f2d3c9b5.jpg" alt="北京协和医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2" title="北京协和医院" target="_blank">北京协和医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.9</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">1718</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">4.0万</span>
+                    </p>
+    </li>
+        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E5%8C%BB%E9%99%A2" title="中国人民解放军总医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/1ad5ad6eddc451da9028f8e4b0fd5266d11632e6.jpg" alt="中国人民解放军总医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E5%8C%BB%E9%99%A2" title="中国人民解放军总医院" target="_blank">中国人民解放军总医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.9</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">186</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">1.6万</span>
+                    </p>
+    </li>
+        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2" title="北京大学第一医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg" alt="北京大学第一医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2" title="北京大学第一医院" target="_blank">北京大学第一医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.8</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">469</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">8526</span>
+                    </p>
+    </li>
+        
+    <li class="ys-util-margin-r0">
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2" title="北京大学第三医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/08f790529822720eea3e848d7dcb0a46f31fabd1.jpg" alt="北京大学第三医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2" title="北京大学第三医院" target="_blank">北京大学第三医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.8</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">465</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">2.1万</span>
+                    </p>
+    </li>
+    
+		</ul>
+						<ul class="ys-util-clear similar-hospital-list">
+		
+		        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2" title="北京大学第一医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg" alt="北京大学第一医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2" title="北京大学第一医院" target="_blank">北京大学第一医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.8</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">469</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">8526</span>
+                    </p>
+    </li>
+        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E9%99%A2%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2" title="中国医学科学院阜外医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/94cad1c8a786c917d53b6c47cf3d70cf3bc75797.jpg" alt="中国医学科学院阜外医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E9%99%A2%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2" title="中国医学科学院阜外医院" target="_blank">中国医学科学院阜外医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.7</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">284</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">5116</span>
+                    </p>
+    </li>
+        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E9%A6%96%E9%83%BD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8C%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2" title="首都医科大学附属北京儿童医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/8601a18b87d6277f1ed9974f2e381f30e824fcfa.jpg" alt="首都医科大学附属北京儿童医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E9%A6%96%E9%83%BD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8C%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2" title="首都医科大学附属北京儿童医院" target="_blank">首都医科大学附属北京儿童医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.7</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">202</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">5507</span>
+                    </p>
+    </li>
+        
+    <li class="ys-util-margin-r0">
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E9%A6%96%E9%83%BD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%AE%A3%E6%AD%A6%E5%8C%BB%E9%99%A2" title="首都医科大学宣武医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/caef76094b36acaf0dfeee8b7ad98d1001e99cae.jpg" alt="首都医科大学宣武医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E9%A6%96%E9%83%BD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%AE%A3%E6%AD%A6%E5%8C%BB%E9%99%A2" title="首都医科大学宣武医院" target="_blank">首都医科大学宣武医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.7</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">311</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">3759</span>
+                    </p>
+    </li>
+    
+		</ul>
+						<ul class="ys-util-clear similar-hospital-list">
+		
+		        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2" title="北京协和医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/4d086e061d950a7bdf3e45ce0cd162d9f2d3c9b5.jpg" alt="北京协和医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2" title="北京协和医院" target="_blank">北京协和医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.9</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">1718</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">4.0万</span>
+                    </p>
+    </li>
+        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E5%8C%BB%E9%99%A2" title="中国人民解放军总医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/1ad5ad6eddc451da9028f8e4b0fd5266d11632e6.jpg" alt="中国人民解放军总医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E5%8C%BB%E9%99%A2" title="中国人民解放军总医院" target="_blank">中国人民解放军总医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.9</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">186</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">1.6万</span>
+                    </p>
+    </li>
+        
+    <li >
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2" title="北京大学第一医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg" alt="北京大学第一医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2" title="北京大学第一医院" target="_blank">北京大学第一医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.8</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">469</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">8526</span>
+                    </p>
+    </li>
+        
+    <li class="ys-util-margin-r0">
+    
+        <a class="ys-img-lazy-frame" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2" title="北京大学第三医院" target="_blank"><img class="hospital-photo ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/dpp/pic/item/08f790529822720eea3e848d7dcb0a46f31fabd1.jpg" alt="北京大学第三医院"></a>
+        <p class="ys-util-margin-t12 ys-util-margin-lr12">
+            <span class="ys-util-text-normal hospital-name">
+                <a class="a-hover" href="http://yi.baidu.com/pc/hospital/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2" title="北京大学第三医院" target="_blank">北京大学第三医院</a>
+            </span>
+                <span class="hospital-level">
+                            <img class="hospitalLevel-icon ys-util-margin-r2" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/hospitalLevel-12.png">
+                                        <img class="hospitalLevel-icon" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/hospitalLevel/yibao.png">
+                        </span>
+        </p>
+        <article class="hospital-star ys-util-text-right ys-util-margin-b10 ys-util-margin-lr12">
+            <span class="container-comment-star">
+    
+                                        <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+                                    <img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_star_light.png" class="ys-star-small" />
+                        
+            </span>
+
+            <span class="ys-util-text-primary ys-util-text-medium summary-comment-score">9.8</span>
+        </article>
+        <p class="ys-util-margin-b15 ys-util-margin-lr12 hover-container">
+                            <span class="ys-util-text-min ys-util-text-secondary">可约医生:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">465</span>
+                <label class="line-icon ys-util-text-unimportant ys-util-text-min ys-util-margin-lr6">|</label>
+                                        <span class="ys-util-text-min ys-util-text-secondary">已约患者:</span>
+                <span class="ys-util-text-normal ys-util-text-primary">2.1万</span>
+                    </p>
+    </li>
+    
+		</ul>
+			</div>
+	</div></article><aside class="container-aside"><div class="container-minmap" style="display:none;" data-mod="ic-right-map">
+    <div id="mini-map" class="map">
+        <img src="" alt="地图">
+    </div>
+    <span id="show-maxmap-btn" class="layer-button ys-util-text-7" style="display:none;">查看完整地图</span>
+</div>
+<aside class="ys-util-border-big">
+    <a class="intro" target="_blank" href="//yi.baidu.com/userdownload/">
+        <img class="scan-pin"  src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/aptdetailcode.png">
+        <p class="name">扫描二维码下载</p>
+        <p class="name">百度医生客户端</p>
+    </a>
+</aside>
+
+</aside><div class="max-map-panel" style="display:none;" data-mod="ic-map-layer">
+    <input id="hidden-map-point" type="hidden" data-longitude="116.361842" data-latitude="39.942445">
+    <input type="hidden" id="hidden-hospital-info" data-name="北京大学人民医院" data-address="北京市西城区西直门南大街11号" data-telephone="01088326666">
+    <div class="title">
+        <h2>北京大学人民医院地图</h2>
+        <span class="close-x"><img src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/icon_close.png"></span>
+    </div>
+    <div class="container">
+        <div class="aside">
+            <div class="hospital-info" id="hospital-info">
+                <h3 class="name" title="北京大学人民医院">北京大学人民医院</h3>
+                <p class="address" title="北京市西城区西直门南大街11号">地址：北京市西城区西直门南大街11号</p>
+                <p class="telephone" title="01088326666">电话：01088326666</p>
+            </div>
+            <div id="route-panel">
+                
+            </div>
+        </div>
+        <div class="content" id="max-map">
+            <div class="bgimg"></div>
+        </div>
+    </div>
+</div>
+</div></div></div><div class="ys-addition ys-util-hidden" id="feedback" data-user="">
+    <a href="javascript: void(0)" class="btn-goTop">
+      <img class="img-goTop" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/home/top_normal.png" />
+      <img class="img-goTop-hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/home/top_hover.png" />
+    </a>
+    <a href="javascript:void(0);" id="feedback-but" class="btn-feedback">
+      <img class="img-feedback" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/home/feedback_normal.png" />
+      <img class="img-feedback-hover" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/home/feedback_hover.png" />
+    </a>
+</div>
+<footer class="ys-footer path" data-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset" data-href="" data-api="http://yi.baidu.com" data-passport="https://passport.baidu.com">
+    <div class="container-footer">
+        <div class="container-contact">
+            <p class="ys-footer-lbl">联系方式</p>
+            <div class="item-contact">
+                <i class="ys-icon-bg-radius ys-icon-tel ys-util-margin-r10"></i>
+                <h5 class="ys-util-text-bigger ys-util-text-auxiliary" style="vertical-align: middle;">4000-191-191</h5>
+            </div>
+            <div class="item-contact">
+                <i class="ys-icon-bg-radius ys-icon-read ys-util-margin-r10"></i>
+                <h5 class="ys-util-text-min">邮箱：baiduyisheng@baidu.com</h5>
+            </div>
+        </div>
+        <div class="container-contract">
+            <p class="ys-footer-lbl">签约医院</p>
+            <ul class="list-imgLink">
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.zryhyy.com.cn/" target="_blank" title="中日友好医院">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Sign_zhongri.png" alt="中日友好医院">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.huashan.org.cn/" target="_blank" title="华山医院">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Sign_huashan.png" alt="华山医院">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://qdumh.qd.sd.cn" target="_blank" title="青岛大学附属医院">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Sign_qingdao.png" alt="青岛大学附属医院">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.301hospital.com.cn/" target="_blank" title="中国人民解放军301医院">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Sign_zhongguo.png" alt="中国人民解放军301医院">
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="container-partner ys-util-clearfix">
+            <p class="ys-footer-lbl">合作伙伴</p>
+            <ul class="imges">
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.fjhfpc.gov.cn/" target="_blank" title="福建省卫生和计划生育委员会">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Co-corporator_fujian.png" alt="福建省卫生和计划生育委员会">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.szhfpc.gov.cn/" target="_blank" title="深圳市卫生和计划生育委员会">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Co-corporator_shenzhen.png" alt="深圳市卫生和计划生育委员会">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.tjwsj.gov.cn/html/wsjn/portal/index/index.htm" target="_blank" title="天津市卫生和计划生育委员会">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Co-corporator_tianjing.png" alt="天津市卫生和计划生育委员会">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.zjwst.gov.cn/" target="_blank" title="浙江省卫生和计划生育委员会">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Co-corporator_zhejiang.png" alt="浙江省卫生和计划生育委员会">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://chma.24hmb.com/" target="_blank" title="中华医学会健康管理学分会">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Co-corporator_zhonghua.png" alt="中华医学会健康管理学分会">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.120ask.com/" target="_blank" title="快速问医生">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Co-corprator_kuaisu.png" alt="快速问医生">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.haodf.com/" target="_blank" title="好大夫在线">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Co-corporator_haodaifu.png" alt="好大夫在线">
+                    </a>
+                </li>
+                <li class="item-imgLink">
+                    <a class="ys-img-lazy-frame" href="http://www.yihu.com/" target="_blank" title="医护网">
+                        <img class="ys-img-lazy-temporary" src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/infoConstruct/pic_temporary.png" data-img-lazy-src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/img/footer/Co-corprator_yihuwang.png" alt="医护网">
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="ys-util-clear"></div>
+        <div class="container-copyright ys-util-text-unimportant">
+            <a class="item-chain">©2016 Baidu Digital Co.,Ltd.All Right Reserved.&nbsp;&nbsp;北京百度网讯科技有限公司</a>
+            <label class="line-icon ys-util-text-unimportant ys-util-text-min">|</label>
+            <a href="https://www.baidu.com/duty/index.html" target="_blank" class="item-chain a-hover">法律声明</a>
+            <label class="line-icon ys-util-text-unimportant ys-util-text-min">|</label>
+            <a href="https://www.baidu.com/duty/yinsiquan.html" target="_blank" class="item-chain a-hover">隐私条款</a>
+            <p class="ys-util-text-secondary ys-util-text-min">京ICP证030173号</p>
+        </div>
+        <div class="container-chain ys-util-text-unimportant">
+            <a href="http://yi.baidu.com/pc/helpcenter/help?zt=self&zt_ext=&pvid=1464532045824888" target="_blank" class="item-chain a-hover">帮助中心</a>
+            <label class="line-icon ys-util-text-unimportant ys-util-text-min">|</label>
+            <a href="http://yi.baidu.com/pc/helpcenter/feedbackindex?zt=self&zt_ext=&pvid=1464532045824888" target="_blank" class="item-chain a-hover">意见反馈</a>
+            <label class="line-icon ys-util-text-unimportant ys-util-text-min">|</label>
+            <a href="http://yi.baidu.com/pc/helpcenter/disclaimer?zt=self&zt_ext=&pvid=1464532045824888" target="_blank" class="item-chain a-hover">用户协议</a>
+        </div>
+    </div>
+</footer>
+
+<script src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/dep/esl/2.0/esl.js"></script>
+<script src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/dep/jquery/1.11.2/jquery-1.11.2.min.js"></script>
+<script src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/dep/tangram/2.0.1.2.js"></script>
+<script src="https://passport.baidu.com/passApi/js/uni_login_wrapper.js"></script>
+<script src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/js/passport.js"></script>
+<script src="https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset/common/js/feedback.js"></script>
+<script>
+    require.config({
+        'baseUrl': 'https://gss0.bdstatic.com/-KQWsjik0QkH8tyhnq/static/pc/201605271423/asset',
+        'paths': {},
+        'packages': [{}]
+    });
+</script>
+<link rel="stylesheet" href="https://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css" /></body><script>require(['infoConstruct/hospital/index'], function(_index) {$(function(){var cataLogId;/* 综合 */_index.tabColligation();cataLogId = 'hospital_comprehensive';/* 设置CataLog扩展参数 */_index.cacheOperator.set({"cat": cataLogId});/* 初始化 */_index.initialize();/* 请求参数配置 */_index.cacheOperator.defaultPool({"key":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662","hospitalName":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662","hosId":"3204"});/*window.console.log({"paramData":{"zt":"self","zt_ext":"","pvid":1464532045824888},"env":{"isLogin":false,"isLoginInt":0,"userName":"","passId":0,"msgCount":0,"passportLoginUrl":false,"passportLogoutUrl":"https:\/\/passport.baidu.com\/?logout&tpl=bddoctor&u=http:\/\/yi.baidu.com\/pc","passportRegisterUrl":"https:\/\/passport.baidu.com\/v2\/?reg&tpl=bddoctor&u=","logoLink":"http:\/\/yi.baidu.com\/pc?zt=self&zt_ext=&pvid=1464532045824888"},"personalCenter":{"notice":"http:\/\/yi.baidu.com\/pc\/my\/notice#notice?zt=self&zt_ext=&pvid=1464532045824888","appointment":"http:\/\/yi.baidu.com\/pc\/my\/appointment#appointment?zt=self&zt_ext=&pvid=1464532045824888","evaluation":"http:\/\/yi.baidu.com\/pc\/my\/evaluation#evaluation?zt=self&zt_ext=&pvid=1464532045824888","contact":"http:\/\/yi.baidu.com\/pc\/my\/contact#contact?zt=self&zt_ext=&pvid=1464532045824888"},"helpCenter":{"feedBack":"http:\/\/yi.baidu.com\/pc\/helpcenter\/feedbackindex?zt=self&zt_ext=&pvid=1464532045824888","appDownload":"http:\/\/yi.baidu.com\/userdownload","contactUs":"http:\/\/yi.baidu.com\/pc\/helpcenter\/contactus?zt=self&zt_ext=&pvid=1464532045824888","disclaimer":"http:\/\/yi.baidu.com\/pc\/helpcenter\/disclaimer?zt=self&zt_ext=&pvid=1464532045824888","help":"http:\/\/yi.baidu.com\/pc\/helpcenter\/help?zt=self&zt_ext=&pvid=1464532045824888"},"crumbs":{"index":"http:\/\/yi.baidu.com\/pc?zt=self&zt_ext=&pvid=1464532045824888","personalCenter":"http:\/\/yi.baidu.com\/pc\/my\/appointment#appointment?zt=self&zt_ext=&pvid=1464532045824888"},"static":"https:\/\/gss0.bdstatic.com\/-KQWsjik0QkH8tyhnq","formAction":"","ajaxApi":"http:\/\/yi.baidu.com","passport":"https:\/\/passport.baidu.com","key":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662","frameInfo":{"crumbNavigation":[{"name":"\u9996\u9875","href":"http:\/\/yi.baidu.com\/pc"},{"name":"\u5317\u4eac","href":"http:\/\/yi.baidu.com\/pc\/hospital\/listpage?zt=self&zt_ext=&pvid=1464532045824888&provId=1&cityId=1&regionId=0"},{"name":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662","href":""}],"summaryInfo":{"hospitalName":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662","hospitalImg":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/8601a18b87d6277f81cbf6402e381f30e824fce9.jpg","hospitalAddress":"\u5317\u4eac\u5e02\u897f\u57ce\u533a\u897f\u76f4\u95e8\u5357\u5927\u885711\u53f7","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"hospitalDescription":"\u590d\u65e6\u5927\u5b66\u4e2d\u56fd\u6700\u4f73\u533b\u9662 \u5168\u56fd\u7efc\u5408\u699c \u7b2c11\u540d | \u534e\u5317\u533a\u7efc\u5408\u5b9e\u529b\u699c \u7b2c4\u540d","hospitalTelephone":"01088326666","viewMapUrl":"http:\/\/api.map.baidu.com\/marker?location=39.942445,116.361842&title=\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662&content=\u5317\u4eac\u5e02\u897f\u57ce\u533a\u897f\u76f4\u95e8\u5357\u5927\u885711\u53f7&output=html","orderSucceed":10745,"doctorEnabled":188,"commentScore":"9.8","hospitalLabel":["\u533b\u672f\u7cbe\u6e5b","\u533b\u5fb7\u9ad8\u5c1a","\u6cbb\u7597\u6548\u679c\u597d","\u6574\u4f53\u4e0d\u9519","\u533b\u62a4\u4eba\u5458\u8ba4\u771f\u8d1f\u8d23"],"keyOffice":[{"name":"\u521b\u4f24\u9aa8\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35489&hosId=3204"},{"name":"\u98ce\u6e7f\u514d\u75ab\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35510&hosId=3204"},{"name":"\u5987\u4ea7\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=63438&hosId=3204"},{"name":"\u5987\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35491&hosId=3204"},{"name":"\u809d\u80c6\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35503&hosId=3204"},{"name":"\u9aa8\u5173\u8282\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35511&hosId=3204"},{"name":"\u9aa8\u80bf\u7624\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35512&hosId=3204"},{"name":"\u547c\u5438\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=18876&hosId=3204"},{"name":"\u810a\u67f1\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35506&hosId=3204"},{"name":"\u6ccc\u5c3f\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35496&hosId=3204"},{"name":"\u76ae\u80a4\u6027\u75c5\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35498&hosId=3204"},{"name":"\u666e\u901a\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35495&hosId=3204"},{"name":"\u4e73\u817a\u4e2d\u5fc3","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35487&hosId=3204"},{"name":"\u5fc3\u8840\u7ba1\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35494&hosId=3204"},{"name":"\u5fc3\u810f\u4e2d\u5fc3","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35493&hosId=3204"},{"name":"\u80f8\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35505&hosId=3204"},{"name":"\u8840\u7ba1\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35508&hosId=3204"},{"name":"\u8840\u6db2\u75c5\u7814\u7a76\u6240","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35507&hosId=3204"},{"name":"\u773c\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&adminDepartId=35499&hosId=3204"}],"renderServices":["orderNumber","visitRemind"],"serviceConsult":"","serviceOrder":"http:\/\/yi.baidu.com\/pc\/hospital\/alldoc?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName","serviceNum":10745},"mapInfo":{"hospitalName":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662","hospitalAddress":"\u5317\u4eac\u5e02\u897f\u57ce\u533a\u897f\u76f4\u95e8\u5357\u5927\u885711\u53f7","hospitalTelephone":"01088326666","point":{"longitude":116.361842,"latitude":39.942445}},"defaultData":{"key":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662","hospitalName":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662","hosId":"3204"}},"headerTab":{"homePage":"http:\/\/yi.baidu.com\/pc?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0","findHospital":"http:\/\/yi.baidu.com\/pc\/hospital\/listpage?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0","findOffice":"http:\/\/yi.baidu.com\/pc\/doctor\/listFanzhi?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0","findDoctor":"http:\/\/yi.baidu.com\/pc\/doctor\/listFanzhi?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0","nearbyHospital":"http:\/\/yi.baidu.com\/pc\/hospital\/nearby?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0","departDoctor":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&provId=0&cityId=0&regionId=0","doctorDetail":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId%5BprovId%5D=0&doctorId%5BcityId%5D=0&doctorId%5BregionId%5D=0"},"tabInfo":[{"tabName":"\u7efc\u5408","tabHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName","ifActive":true,"detailContent":{"hospitalInfo":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662(\u539f\u5317\u4eac\u4e2d\u592e\u533b\u9662)\u662f\u4e2d\u56fd\u4eba\u81ea\u884c\u7b79\u8d44\u5efa\u8bbe\u548c\u7ba1\u7406\u7684\u7b2c\u4e00\u5bb6\u7efc\u5408\u6027\u897f\u533b\u533b\u9662\uff0c\u6700\u521d\u547d\u540d\u4e3a\u201c\u5317\u4eac\u4e2d\u592e\u533b\u9662\u201d\uff0c\u5f00\u653e\u5e8a\u4f4d1693\u5f20\uff0c\u8bbe\u670939\u4e2a\u4e34\u5e8a\u79d1\u5ba4\u300117\u4e2a\u533b\u6280\u79d1\u5ba4\uff1b\u62e5\u6709\u8840\u6db2\u5185\u79d1\u3001\u5fc3\u8840\u7ba1\u5185\u79d1\u3001\u9aa8\u79d1\u3001\u5987\u4ea7\u79d1\u3001\u773c\u79d1\u3001\u6ccc\u5c3f\u5916\u79d1\u3001\u513f\u79d1\u3001\u76ae\u80a4\u79d1\u3001\u98ce\u6e7f\u514d\u75ab\u79d1\u3001\u80be\u5185\u79d1\u3001\u75c5\u7406\u79d111\u4e2a\u56fd\u5bb6\u7ea7\u91cd\u70b9\u5b66\u79d1\uff1b\u8840\u6db2\u75c5\u7814\u7a76\u6240\u3001\u809d\u75c5\u7814\u7a76\u6240\u3001\u5173\u8282\u75c5\u7814\u7a76\u6240\u3001\u5e94\u7528\u788e\u77f3\u6280\u672f\u7814\u7a76\u62404\u4e2a\u5317\u4eac\u5927\u5b66\u7ea7\u7814\u7a76\u6240\u3002","registRule":["\u653e\u53f7\u65f6\u95f4\uff1a\u6bcf\u65e50:00\u66f4\u65b0\r","\u9884\u7ea6\u5468\u671f\uff1a\u63d0\u524d1\u4e2a\u6708(\u4e0d\u542b\u5f53\u65e5)\r","\u505c\u6302\u65f6\u95f4\uff1a\u4e0b\u534815:00\u505c\u6b62\u6b21\u65e5\u9884\u7ea6\u6302\u53f7\uff0c\u8282\u5047\u65e5\u4e0d\u5b89\u6392\u9884\u7ea6\u53f7\uff08\u4e0d\u542b\u5468\u516d\u3001\u65e5\uff09\r"],"commonOffice":[{"primaryOffice":"\u5185\u79d1","secondaryOffice":[{"name":"\u98ce\u6e7f\u514d\u75ab\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35510"},{"name":"\u809d\u75c5\u7814\u7a76\u6240","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35502"},{"name":"\u611f\u67d3\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110504"},{"name":"\u547c\u5438\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=18876"},{"name":"\u5185\u5206\u6ccc\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110484"},{"name":"\u795e\u7ecf\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35500"},{"name":"\u80be\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35504"},{"name":"\u5fc3\u8840\u7ba1\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35494"},{"name":"\u5fc3\u810f\u4e2d\u5fc3","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35493"},{"name":"\u8840\u6db2\u75c5\u7814\u7a76\u6240","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35507"}]},{"primaryOffice":"\u5916\u79d1","secondaryOffice":[{"name":"\u809d\u80c6\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35503"},{"name":"\u6ccc\u5c3f\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35496"},{"name":"\u666e\u901a\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35495"},{"name":"\u5668\u5b98\u79fb\u690d\u7814\u7a76\u6240","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110490"},{"name":"\u4e73\u817a\u4e2d\u5fc3","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35487"},{"name":"\u795e\u7ecf\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35501"},{"name":"\u5fc3\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35492"},{"name":"\u80f8\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35505"},{"name":"\u8840\u7ba1\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35508"}]},{"primaryOffice":"\u5987\u4ea7\u79d1","secondaryOffice":[{"name":"\u4ea7\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35488"},{"name":"\u5987\u4ea7\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=63438"},{"name":"\u5987\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35491"},{"name":"\u8ba1\u5212\u751f\u80b2\u4e0e\u751f\u6b96\u533b\u5b66\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35509"}]},{"primaryOffice":"\u513f\u79d1","secondaryOffice":[{"name":"\u513f\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=73321"}]},{"primaryOffice":"\u9aa8\u79d1","secondaryOffice":[{"name":"\u521b\u4f24\u9aa8\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35489"},{"name":"\u9aa8\u5173\u8282\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35511"},{"name":"\u810a\u67f1\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35506"}]},{"primaryOffice":"\u53e3\u8154\u79d1","secondaryOffice":[{"name":"\u53e3\u8154\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35490"}]},{"primaryOffice":"\u773c\u79d1","secondaryOffice":[{"name":"\u773c\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35499"}]},{"primaryOffice":"\u4e2d\u533b\u79d1","secondaryOffice":[{"name":"\u4e2d\u533b\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=74786"}]},{"primaryOffice":"\u7cbe\u795e\u5fc3\u7406\u79d1","secondaryOffice":[{"name":"\u5fc3\u7406\u95e8\u8bca","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126898"}]},{"primaryOffice":"\u76ae\u80a4\u6027\u75c5\u79d1","secondaryOffice":[{"name":"\u76ae\u80a4\u6027\u75c5\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35498"}]},{"primaryOffice":"\u80bf\u7624\u79d1","secondaryOffice":[{"name":"\u9aa8\u80bf\u7624\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35512"}]},{"primaryOffice":"\u7537\u79d1","secondaryOffice":[{"name":"\u7537\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35497"}]},{"primaryOffice":"\u75bc\u75db\u79d1","secondaryOffice":[{"name":"\u75bc\u75db\u533b\u5b66\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126897"}]},{"primaryOffice":"\u8033\u9f3b\u5589\u79d1","secondaryOffice":[{"name":"\u8033\u9f3b\u5589\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=74318"}]},{"primaryOffice":"\u4e34\u5e8a\u5176\u4ed6","secondaryOffice":[{"name":"\u68c0\u9a8c\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126894"},{"name":"\u4e34\u5e8a\u8425\u517b\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126895"}]}],"userEvaluation":{"commentDetail":[{"id":"5374968","commentUserName":"1***5","commentDateTime":"2016-05-28 12:03:30","commentScore":{"recommendScore":"10.0","doctorAttitudeScore":"10.0","treatEffectScore":"10.0"},"commentContent":"\u80e1\u4e3b\u4efb\u975e\u5e38\u597d","diseaseDescription":"\u7532\u72b6\u817a\u708e","doctorName":"\u80e1\u8087\u8861","department":"\u5185\u5206\u6ccc\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=298882"},{"id":"0","commentUserName":"\u6765\u81ea\u597d\u5927\u592b\u5728\u7ebf","commentDateTime":"2016-05-27 16:18:11","commentScore":{"recommendScore":"10.0","doctorAttitudeScore":"10.0","treatEffectScore":"10.0"},"commentContent":"\u9996\u5148\u8981\u611f\u8b1d\u53f6\u5927\u592b\uff0c\u53f6\u5927\u592b\u770b\u75c5\u5f88\u8ba4\u771f\uff0c\u533b\u751f\u7965\u7ec6\u7684\u89e3\u91ca\u4e86\u75c5\u60c5\uff0c\u75c5\u4eba\u542c\u7684\u660e\u767d\uff0c\u672c\u6b21\u75c5\u60c5\u8fd8\u987b\u8981\u8fdb\u4e00\u6b65\u68c0\u67e5\u786e\u8ba4","diseaseDescription":"\u80be\u7ed3\u77f3","doctorName":"\u53f6\u96c4\u4fca","department":"\u6ccc\u5c3f\u5916\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141429"},{"id":"5314099","commentUserName":"1***7","commentDateTime":"2016-05-27 15:54:58","commentScore":{"recommendScore":"4.0","doctorAttitudeScore":"8.0","treatEffectScore":"2.0"},"commentContent":"\u5ba2\u89c2\u7684\u8bf4\u5427\uff0c\u4ece\u6765\u4e0d\u8bc4\u8bba\uff0c\u5305\u62ec\u5728\u6dd8\u5b9d\uff0c\u4f46\u662f\u4eca\u5929\u5fc5\u987b\u8981\u8bf4\u4e00\u4e0b\uff0c\u5927\u592b\u6001\u5ea6\u5f88\u597d\uff0c\u7531\u4e8e\u662f\u7279\u9700\u53f7\u6240\u4ee5\u65e9\u4e0a\u53bb\u4e00\u76f4\u7b49\u523012\uff1b30\u624d\u770b\u4e0a\uff0c\u533b\u751f\u53ef\u80fd\u7740\u6025\u53bb\u5403\u996d\uff0c\u6240\u4ee5\u8bf4\u4e0d\u7528\u505a\u68c0\u67e5\u4e86\uff0c\u56e0\u4e3a\u73b0\u5728\u7684\u75c7\u72b6\u4e0d\u5728\u53d1\u75c5\u671f\u4e0d\u7528\u505a\u68c0\u67e5\u6765\u5224\u65ad\uff0c\u505a\u68c0\u67e5\u4e5f\u76f8\u5f53\u4e8e\u4e00\u6b21\u5916\u521b\u5bf9\u8eab\u4f53\u4e0d\u597d\u3002\u529d\u89e3\u7684\u975e\u5e38\u6709\u6c34\u5e73\uff0c\u8ba9\u4f60\u6ca1\u6cd5\u62d2\u7edd\uff0c\u975e\u5e38\u5706\u6ed1\uff0c\u6700\u540e\u7ed3\u679c\u5c31\u662f\u7b49\u4e86\u4e00\u4e0a\u5348\uff0c\u4ea4\u4e86100\u5143\u6302\u53f7\u8d39\uff0c\u533b\u751f\u8bf4\u7b49\u4ee5\u540e\u53d1\u75c5\u65f6\u518d\u6765\u68c0\u67e5\u5427\uff0c\u73b0\u5728\u770b\u4e0d\u51fa\u4ec0\u4e48\u3002\u6211\u5f53\u7136\u662f\u8eab\u4f53\u6700\u8fd1\u4e0d\u8212\u670d\u624d\u53bb\u505a\u68c0\u67e5\uff0c\u4f46\u4e0d\u4ee3\u8868\u770b\u75c5\u65f6\u6ca1\u6709\u660e\u663e\u75c7\u72b6\u5c31\u4e0d\u7528\u68c0\u67e5\u4e86\u554a\u3002\u6240\u4ee5\u53ea\u80fd\u8bf4\u770b\u5927\u592b\u5c31\u662f\u78b0\u8fd0\u6c14\u5427\uff0c\u5efa\u8bae\u5927\u5bb6\u505a\u522b\u7684\u9009\u62e9\u3002","diseaseDescription":"\u5176\u4ed6","doctorName":"\u5468\u84c9","department":"\u5987\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141117"},{"id":"0","commentUserName":"\u6765\u81ea\u597d\u5927\u592b\u5728\u7ebf","commentDateTime":"2016-05-27 13:45:03","commentScore":{"recommendScore":"10.0","doctorAttitudeScore":"10.0","treatEffectScore":"10.0"},"commentContent":"\u611f\u8c22\u533b\u751f\u53c8\u7ec6\u5fc3\u53c8\u8010\u5fc3\u7684\u6cbb\u7597\uff0c\u624b\u672f\u540e\u611f\u89c9\u5f88\u597d\u547c\u5438\u901a\u5e38\u4e86\u55c5\u89c9\u6b63\u5728\u6062\u590d\uff0c\u975e\u5e38\u611f\u8c22","diseaseDescription":"\u9f3b\u7aa6\u708e\uff0c\u9f3b\u606f\u8089","doctorName":"\u738b\u65fb","department":"\u8033\u9f3b\u5589\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=201815"},{"id":"5313621","commentUserName":"1***4","commentDateTime":"2016-05-27 12:03:15","commentScore":{"recommendScore":"10.0","doctorAttitudeScore":"10.0","treatEffectScore":"10.0"},"commentContent":"\u5218\u533b\u751f\u4eb2\u5207\uff0c\u5728\u5979\u9762\u524d\u6ca1\u6709\u6050\u60e7\u548c\u538b\u529b\u611f","diseaseDescription":"\u4e60\u60ef\u6027\u6d41\u4ea7","doctorName":"\u5218\u6625\u5170","department":"\u8ba1\u5212\u751f\u80b2\u4e0e\u751f\u6b96\u533b\u5b66\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=201835"}],"commentSummary":{"recommendScore":"9.9","treatEffectScore":"9.8","doctorAttitudeScore":"9.9"},"commentTotal":1775},"similarHospital":[{"tabName":"\u7efc\u5408","hospitalList":[{"id":"125","hospitalName":"\u5317\u4eac\u534f\u548c\u533b\u9662","hospitalImg":"https:\/\/ss2.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/4d086e061d950a7bdf3e45ce0cd162d9f2d3c9b5.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.9","orderSucceed":"4.0\u4e07","doctorEnabled":1718},{"id":"119","hospitalName":"\u4e2d\u56fd\u4eba\u6c11\u89e3\u653e\u519b\u603b\u533b\u9662","hospitalImg":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/1ad5ad6eddc451da9028f8e4b0fd5266d11632e6.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.9","orderSucceed":"1.6\u4e07","doctorEnabled":186},{"id":"87","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e00\u533b\u9662","hospitalImg":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":8526,"doctorEnabled":469},{"id":"3075","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e09\u533b\u9662","hospitalImg":"https:\/\/ss2.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/08f790529822720eea3e848d7dcb0a46f31fabd1.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":"2.1\u4e07","doctorEnabled":465}]},{"tabName":"\u540c\u533a\u57df","hospitalList":[{"id":"87","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e00\u533b\u9662","hospitalImg":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":8526,"doctorEnabled":469},{"id":"829","hospitalName":"\u4e2d\u56fd\u533b\u5b66\u79d1\u5b66\u9662\u961c\u5916\u533b\u9662","hospitalImg":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/94cad1c8a786c917d53b6c47cf3d70cf3bc75797.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E9%99%A2%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.7","orderSucceed":5116,"doctorEnabled":284},{"id":"3197","hospitalName":"\u9996\u90fd\u533b\u79d1\u5927\u5b66\u9644\u5c5e\u5317\u4eac\u513f\u7ae5\u533b\u9662","hospitalImg":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/8601a18b87d6277f1ed9974f2e381f30e824fcfa.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E9%A6%96%E9%83%BD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8C%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.7","orderSucceed":5507,"doctorEnabled":202},{"id":"724","hospitalName":"\u9996\u90fd\u533b\u79d1\u5927\u5b66\u5ba3\u6b66\u533b\u9662","hospitalImg":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/caef76094b36acaf0dfeee8b7ad98d1001e99cae.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E9%A6%96%E9%83%BD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%AE%A3%E6%AD%A6%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.7","orderSucceed":3759,"doctorEnabled":311}]},{"tabName":"\u540c\u7ea7\u522b","hospitalList":[{"id":"125","hospitalName":"\u5317\u4eac\u534f\u548c\u533b\u9662","hospitalImg":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/4d086e061d950a7bdf3e45ce0cd162d9f2d3c9b5.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.9","orderSucceed":"4.0\u4e07","doctorEnabled":1718},{"id":"119","hospitalName":"\u4e2d\u56fd\u4eba\u6c11\u89e3\u653e\u519b\u603b\u533b\u9662","hospitalImg":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/1ad5ad6eddc451da9028f8e4b0fd5266d11632e6.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.9","orderSucceed":"1.6\u4e07","doctorEnabled":186},{"id":"87","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e00\u533b\u9662","hospitalImg":"https:\/\/ss2.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":8526,"doctorEnabled":469},{"id":"3075","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e09\u533b\u9662","hospitalImg":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/08f790529822720eea3e848d7dcb0a46f31fabd1.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":"2.1\u4e07","doctorEnabled":465}]}],"keyOffice":[{"officeName":"\u521b\u4f24\u9aa8\u79d1","officeHref":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35489","officeDescription":"1","doctorList":[{"doctorName":"\u9648\u5efa\u6d77","doctorTitle":"\u526f\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139633","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/79f0f736afc379315c112e55edc4b74543a91154.jpg"},{"doctorName":"\u5f20\u6bbf\u82f1","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=138538","doctorPhoto":"https:\/\/ss2.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/960a304e251f95cac5b339cacf177f3e67095203.jpg"},{"doctorName":"\u515a\u80b2","doctorTitle":"\u526f\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141542","doctorPhoto":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/d000baa1cd11728be1c5a319cefcc3cec3fd2c24.jpg"}]},{"officeName":"\u98ce\u6e7f\u514d\u75ab\u79d1","officeHref":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35510","officeDescription":"1","doctorList":[{"doctorName":"\u6768\u94c1\u751f","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140584","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/c8177f3e6709c93d6ac0a58b993df8dcd100549f.jpg"},{"doctorName":"\u5f20\u5b66\u6b66","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140652","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/9e3df8dcd100baa1efd9eec74110b912c9fc2ed0.jpg"},{"doctorName":"\u82cf\u8335","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139526","doctorPhoto":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/b3fb43166d224f4ab6d8db6f0ff790529822d10d.jpg"}]},{"officeName":"\u5987\u4ea7\u79d1","officeHref":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=63438","officeDescription":"1","doctorList":[{"doctorName":"\u5468\u656c\u4f1f","doctorTitle":"\u4e3b\u6cbb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=171564","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/ac4bd11373f08202177e38c24dfbfbedaa641b5a.jpg"}]},{"officeName":"\u5987\u79d1","officeHref":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35491","officeDescription":"1","doctorList":[{"doctorName":"\u9b4f\u4e3d\u60e0","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139507","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/32fa828ba61ea8d3ecb0da78910a304e251f583f.jpg"},{"doctorName":"\u5d14\u6052","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140906","doctorPhoto":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/b7fd5266d0160924977b0b67d20735fae6cd346b.jpg"},{"doctorName":"\u6768\u6b23","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140873","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/c9fcc3cec3fdfc03bbc54bc4d23f8794a4c22608.jpg"}]}],"moreHospitalInfo":"http:\/\/yi.baidu.com\/pc\/hospital\/info?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName","moreCommonOffice":"http:\/\/yi.baidu.com\/pc\/hospital\/alldep?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName","moreUserEvaluation":"http:\/\/yi.baidu.com\/pc\/hospital\/evaluationpage?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName"}},{"tabName":"\u9884\u7ea6\u6302\u53f7","tabHref":"http:\/\/yi.baidu.com\/pc\/hospital\/alldoc?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName"},{"tabName":"\u5168\u90e8\u79d1\u5ba4","tabHref":"http:\/\/yi.baidu.com\/pc\/hospital\/alldep?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName"},{"tabName":"\u533b\u9662\u4fe1\u606f","tabHref":"http:\/\/yi.baidu.com\/pc\/hospital\/info?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName"},{"tabName":"\u5c31\u8bca\u6307\u5357","tabHref":"http:\/\/yi.baidu.com\/pc\/hospital\/rule?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName"},{"tabName":"\u7528\u6237\u8bc4\u4ef7","tabHref":"http:\/\/yi.baidu.com\/pc\/hospital\/evaluationpage?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName","extInfo":1775}],"asideInfo":{"stopNotice":{"detailTblBody":[],"totalNumber":0}},"extractTabContent":{"hospitalInfo":"\u5317\u4eac\u5927\u5b66\u4eba\u6c11\u533b\u9662(\u539f\u5317\u4eac\u4e2d\u592e\u533b\u9662)\u662f\u4e2d\u56fd\u4eba\u81ea\u884c\u7b79\u8d44\u5efa\u8bbe\u548c\u7ba1\u7406\u7684\u7b2c\u4e00\u5bb6\u7efc\u5408\u6027\u897f\u533b\u533b\u9662\uff0c\u6700\u521d\u547d\u540d\u4e3a\u201c\u5317\u4eac\u4e2d\u592e\u533b\u9662\u201d\uff0c\u5f00\u653e\u5e8a\u4f4d1693\u5f20\uff0c\u8bbe\u670939\u4e2a\u4e34\u5e8a\u79d1\u5ba4\u300117\u4e2a\u533b\u6280\u79d1\u5ba4\uff1b\u62e5\u6709\u8840\u6db2\u5185\u79d1\u3001\u5fc3\u8840\u7ba1\u5185\u79d1\u3001\u9aa8\u79d1\u3001\u5987\u4ea7\u79d1\u3001\u773c\u79d1\u3001\u6ccc\u5c3f\u5916\u79d1\u3001\u513f\u79d1\u3001\u76ae\u80a4\u79d1\u3001\u98ce\u6e7f\u514d\u75ab\u79d1\u3001\u80be\u5185\u79d1\u3001\u75c5\u7406\u79d111\u4e2a\u56fd\u5bb6\u7ea7\u91cd\u70b9\u5b66\u79d1\uff1b\u8840\u6db2\u75c5\u7814\u7a76\u6240\u3001\u809d\u75c5\u7814\u7a76\u6240\u3001\u5173\u8282\u75c5\u7814\u7a76\u6240\u3001\u5e94\u7528\u788e\u77f3\u6280\u672f\u7814\u7a76\u62404\u4e2a\u5317\u4eac\u5927\u5b66\u7ea7\u7814\u7a76\u6240\u3002","registRule":["\u653e\u53f7\u65f6\u95f4\uff1a\u6bcf\u65e50:00\u66f4\u65b0\r","\u9884\u7ea6\u5468\u671f\uff1a\u63d0\u524d1\u4e2a\u6708(\u4e0d\u542b\u5f53\u65e5)\r","\u505c\u6302\u65f6\u95f4\uff1a\u4e0b\u534815:00\u505c\u6b62\u6b21\u65e5\u9884\u7ea6\u6302\u53f7\uff0c\u8282\u5047\u65e5\u4e0d\u5b89\u6392\u9884\u7ea6\u53f7\uff08\u4e0d\u542b\u5468\u516d\u3001\u65e5\uff09\r"],"commonOffice":[{"primaryOffice":"\u5185\u79d1","secondaryOffice":[{"name":"\u98ce\u6e7f\u514d\u75ab\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35510"},{"name":"\u809d\u75c5\u7814\u7a76\u6240","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35502"},{"name":"\u611f\u67d3\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110504"},{"name":"\u547c\u5438\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=18876"},{"name":"\u5185\u5206\u6ccc\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110484"},{"name":"\u795e\u7ecf\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35500"},{"name":"\u80be\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35504"},{"name":"\u5fc3\u8840\u7ba1\u5185\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35494"},{"name":"\u5fc3\u810f\u4e2d\u5fc3","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35493"},{"name":"\u8840\u6db2\u75c5\u7814\u7a76\u6240","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35507"}]},{"primaryOffice":"\u5916\u79d1","secondaryOffice":[{"name":"\u809d\u80c6\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35503"},{"name":"\u6ccc\u5c3f\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35496"},{"name":"\u666e\u901a\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35495"},{"name":"\u5668\u5b98\u79fb\u690d\u7814\u7a76\u6240","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=110490"},{"name":"\u4e73\u817a\u4e2d\u5fc3","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35487"},{"name":"\u795e\u7ecf\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35501"},{"name":"\u5fc3\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35492"},{"name":"\u80f8\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35505"},{"name":"\u8840\u7ba1\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35508"}]},{"primaryOffice":"\u5987\u4ea7\u79d1","secondaryOffice":[{"name":"\u4ea7\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35488"},{"name":"\u5987\u4ea7\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=63438"},{"name":"\u5987\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35491"},{"name":"\u8ba1\u5212\u751f\u80b2\u4e0e\u751f\u6b96\u533b\u5b66\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35509"}]},{"primaryOffice":"\u513f\u79d1","secondaryOffice":[{"name":"\u513f\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=73321"}]},{"primaryOffice":"\u9aa8\u79d1","secondaryOffice":[{"name":"\u521b\u4f24\u9aa8\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35489"},{"name":"\u9aa8\u5173\u8282\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35511"},{"name":"\u810a\u67f1\u5916\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35506"}]},{"primaryOffice":"\u53e3\u8154\u79d1","secondaryOffice":[{"name":"\u53e3\u8154\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35490"}]},{"primaryOffice":"\u773c\u79d1","secondaryOffice":[{"name":"\u773c\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35499"}]},{"primaryOffice":"\u4e2d\u533b\u79d1","secondaryOffice":[{"name":"\u4e2d\u533b\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=74786"}]},{"primaryOffice":"\u7cbe\u795e\u5fc3\u7406\u79d1","secondaryOffice":[{"name":"\u5fc3\u7406\u95e8\u8bca","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126898"}]},{"primaryOffice":"\u76ae\u80a4\u6027\u75c5\u79d1","secondaryOffice":[{"name":"\u76ae\u80a4\u6027\u75c5\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35498"}]},{"primaryOffice":"\u80bf\u7624\u79d1","secondaryOffice":[{"name":"\u9aa8\u80bf\u7624\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35512"}]},{"primaryOffice":"\u7537\u79d1","secondaryOffice":[{"name":"\u7537\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35497"}]},{"primaryOffice":"\u75bc\u75db\u79d1","secondaryOffice":[{"name":"\u75bc\u75db\u533b\u5b66\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126897"}]},{"primaryOffice":"\u8033\u9f3b\u5589\u79d1","secondaryOffice":[{"name":"\u8033\u9f3b\u5589\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=74318"}]},{"primaryOffice":"\u4e34\u5e8a\u5176\u4ed6","secondaryOffice":[{"name":"\u68c0\u9a8c\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126894"},{"name":"\u4e34\u5e8a\u8425\u517b\u79d1","href":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=126895"}]}],"userEvaluation":{"commentDetail":[{"id":"5374968","commentUserName":"1***5","commentDateTime":"2016-05-28 12:03:30","commentScore":{"recommendScore":"10.0","doctorAttitudeScore":"10.0","treatEffectScore":"10.0"},"commentContent":"\u80e1\u4e3b\u4efb\u975e\u5e38\u597d","diseaseDescription":"\u7532\u72b6\u817a\u708e","doctorName":"\u80e1\u8087\u8861","department":"\u5185\u5206\u6ccc\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=298882"},{"id":"0","commentUserName":"\u6765\u81ea\u597d\u5927\u592b\u5728\u7ebf","commentDateTime":"2016-05-27 16:18:11","commentScore":{"recommendScore":"10.0","doctorAttitudeScore":"10.0","treatEffectScore":"10.0"},"commentContent":"\u9996\u5148\u8981\u611f\u8b1d\u53f6\u5927\u592b\uff0c\u53f6\u5927\u592b\u770b\u75c5\u5f88\u8ba4\u771f\uff0c\u533b\u751f\u7965\u7ec6\u7684\u89e3\u91ca\u4e86\u75c5\u60c5\uff0c\u75c5\u4eba\u542c\u7684\u660e\u767d\uff0c\u672c\u6b21\u75c5\u60c5\u8fd8\u987b\u8981\u8fdb\u4e00\u6b65\u68c0\u67e5\u786e\u8ba4","diseaseDescription":"\u80be\u7ed3\u77f3","doctorName":"\u53f6\u96c4\u4fca","department":"\u6ccc\u5c3f\u5916\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141429"},{"id":"5314099","commentUserName":"1***7","commentDateTime":"2016-05-27 15:54:58","commentScore":{"recommendScore":"4.0","doctorAttitudeScore":"8.0","treatEffectScore":"2.0"},"commentContent":"\u5ba2\u89c2\u7684\u8bf4\u5427\uff0c\u4ece\u6765\u4e0d\u8bc4\u8bba\uff0c\u5305\u62ec\u5728\u6dd8\u5b9d\uff0c\u4f46\u662f\u4eca\u5929\u5fc5\u987b\u8981\u8bf4\u4e00\u4e0b\uff0c\u5927\u592b\u6001\u5ea6\u5f88\u597d\uff0c\u7531\u4e8e\u662f\u7279\u9700\u53f7\u6240\u4ee5\u65e9\u4e0a\u53bb\u4e00\u76f4\u7b49\u523012\uff1b30\u624d\u770b\u4e0a\uff0c\u533b\u751f\u53ef\u80fd\u7740\u6025\u53bb\u5403\u996d\uff0c\u6240\u4ee5\u8bf4\u4e0d\u7528\u505a\u68c0\u67e5\u4e86\uff0c\u56e0\u4e3a\u73b0\u5728\u7684\u75c7\u72b6\u4e0d\u5728\u53d1\u75c5\u671f\u4e0d\u7528\u505a\u68c0\u67e5\u6765\u5224\u65ad\uff0c\u505a\u68c0\u67e5\u4e5f\u76f8\u5f53\u4e8e\u4e00\u6b21\u5916\u521b\u5bf9\u8eab\u4f53\u4e0d\u597d\u3002\u529d\u89e3\u7684\u975e\u5e38\u6709\u6c34\u5e73\uff0c\u8ba9\u4f60\u6ca1\u6cd5\u62d2\u7edd\uff0c\u975e\u5e38\u5706\u6ed1\uff0c\u6700\u540e\u7ed3\u679c\u5c31\u662f\u7b49\u4e86\u4e00\u4e0a\u5348\uff0c\u4ea4\u4e86100\u5143\u6302\u53f7\u8d39\uff0c\u533b\u751f\u8bf4\u7b49\u4ee5\u540e\u53d1\u75c5\u65f6\u518d\u6765\u68c0\u67e5\u5427\uff0c\u73b0\u5728\u770b\u4e0d\u51fa\u4ec0\u4e48\u3002\u6211\u5f53\u7136\u662f\u8eab\u4f53\u6700\u8fd1\u4e0d\u8212\u670d\u624d\u53bb\u505a\u68c0\u67e5\uff0c\u4f46\u4e0d\u4ee3\u8868\u770b\u75c5\u65f6\u6ca1\u6709\u660e\u663e\u75c7\u72b6\u5c31\u4e0d\u7528\u68c0\u67e5\u4e86\u554a\u3002\u6240\u4ee5\u53ea\u80fd\u8bf4\u770b\u5927\u592b\u5c31\u662f\u78b0\u8fd0\u6c14\u5427\uff0c\u5efa\u8bae\u5927\u5bb6\u505a\u522b\u7684\u9009\u62e9\u3002","diseaseDescription":"\u5176\u4ed6","doctorName":"\u5468\u84c9","department":"\u5987\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141117"},{"id":"0","commentUserName":"\u6765\u81ea\u597d\u5927\u592b\u5728\u7ebf","commentDateTime":"2016-05-27 13:45:03","commentScore":{"recommendScore":"10.0","doctorAttitudeScore":"10.0","treatEffectScore":"10.0"},"commentContent":"\u611f\u8c22\u533b\u751f\u53c8\u7ec6\u5fc3\u53c8\u8010\u5fc3\u7684\u6cbb\u7597\uff0c\u624b\u672f\u540e\u611f\u89c9\u5f88\u597d\u547c\u5438\u901a\u5e38\u4e86\u55c5\u89c9\u6b63\u5728\u6062\u590d\uff0c\u975e\u5e38\u611f\u8c22","diseaseDescription":"\u9f3b\u7aa6\u708e\uff0c\u9f3b\u606f\u8089","doctorName":"\u738b\u65fb","department":"\u8033\u9f3b\u5589\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=201815"},{"id":"5313621","commentUserName":"1***4","commentDateTime":"2016-05-27 12:03:15","commentScore":{"recommendScore":"10.0","doctorAttitudeScore":"10.0","treatEffectScore":"10.0"},"commentContent":"\u5218\u533b\u751f\u4eb2\u5207\uff0c\u5728\u5979\u9762\u524d\u6ca1\u6709\u6050\u60e7\u548c\u538b\u529b\u611f","diseaseDescription":"\u4e60\u60ef\u6027\u6d41\u4ea7","doctorName":"\u5218\u6625\u5170","department":"\u8ba1\u5212\u751f\u80b2\u4e0e\u751f\u6b96\u533b\u5b66\u79d1","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=201835"}],"commentSummary":{"recommendScore":"9.9","treatEffectScore":"9.8","doctorAttitudeScore":"9.9"},"commentTotal":1775},"similarHospital":[{"tabName":"\u7efc\u5408","hospitalList":[{"id":"125","hospitalName":"\u5317\u4eac\u534f\u548c\u533b\u9662","hospitalImg":"https:\/\/ss2.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/4d086e061d950a7bdf3e45ce0cd162d9f2d3c9b5.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.9","orderSucceed":"4.0\u4e07","doctorEnabled":1718},{"id":"119","hospitalName":"\u4e2d\u56fd\u4eba\u6c11\u89e3\u653e\u519b\u603b\u533b\u9662","hospitalImg":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/1ad5ad6eddc451da9028f8e4b0fd5266d11632e6.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.9","orderSucceed":"1.6\u4e07","doctorEnabled":186},{"id":"87","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e00\u533b\u9662","hospitalImg":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":8526,"doctorEnabled":469},{"id":"3075","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e09\u533b\u9662","hospitalImg":"https:\/\/ss2.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/08f790529822720eea3e848d7dcb0a46f31fabd1.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":"2.1\u4e07","doctorEnabled":465}]},{"tabName":"\u540c\u533a\u57df","hospitalList":[{"id":"87","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e00\u533b\u9662","hospitalImg":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":8526,"doctorEnabled":469},{"id":"829","hospitalName":"\u4e2d\u56fd\u533b\u5b66\u79d1\u5b66\u9662\u961c\u5916\u533b\u9662","hospitalImg":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/94cad1c8a786c917d53b6c47cf3d70cf3bc75797.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E9%99%A2%E9%98%9C%E5%A4%96%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.7","orderSucceed":5116,"doctorEnabled":284},{"id":"3197","hospitalName":"\u9996\u90fd\u533b\u79d1\u5927\u5b66\u9644\u5c5e\u5317\u4eac\u513f\u7ae5\u533b\u9662","hospitalImg":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/8601a18b87d6277f1ed9974f2e381f30e824fcfa.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E9%A6%96%E9%83%BD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8C%97%E4%BA%AC%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.7","orderSucceed":5507,"doctorEnabled":202},{"id":"724","hospitalName":"\u9996\u90fd\u533b\u79d1\u5927\u5b66\u5ba3\u6b66\u533b\u9662","hospitalImg":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/caef76094b36acaf0dfeee8b7ad98d1001e99cae.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E9%A6%96%E9%83%BD%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%AE%A3%E6%AD%A6%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.7","orderSucceed":3759,"doctorEnabled":311}]},{"tabName":"\u540c\u7ea7\u522b","hospitalList":[{"id":"125","hospitalName":"\u5317\u4eac\u534f\u548c\u533b\u9662","hospitalImg":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/4d086e061d950a7bdf3e45ce0cd162d9f2d3c9b5.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.9","orderSucceed":"4.0\u4e07","doctorEnabled":1718},{"id":"119","hospitalName":"\u4e2d\u56fd\u4eba\u6c11\u89e3\u653e\u519b\u603b\u533b\u9662","hospitalImg":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/1ad5ad6eddc451da9028f8e4b0fd5266d11632e6.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.9","orderSucceed":"1.6\u4e07","doctorEnabled":186},{"id":"87","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e00\u533b\u9662","hospitalImg":"https:\/\/ss2.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/d01373f082025aaf6c0369b5fdedab64034f1a9e.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":8526,"doctorEnabled":469},{"id":"3075","hospitalName":"\u5317\u4eac\u5927\u5b66\u7b2c\u4e09\u533b\u9662","hospitalImg":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/08f790529822720eea3e848d7dcb0a46f31fabd1.jpg","hospitalHref":"http:\/\/yi.baidu.com\/pc\/hospital\/index?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2","hospitalLevel":{"grade":12,"medicare":"\u533b\u4fdd"},"commentScore":"9.8","orderSucceed":"2.1\u4e07","doctorEnabled":465}]}],"keyOffice":[{"officeName":"\u521b\u4f24\u9aa8\u79d1","officeHref":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35489","officeDescription":"1","doctorList":[{"doctorName":"\u9648\u5efa\u6d77","doctorTitle":"\u526f\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139633","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/79f0f736afc379315c112e55edc4b74543a91154.jpg"},{"doctorName":"\u5f20\u6bbf\u82f1","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=138538","doctorPhoto":"https:\/\/ss2.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/960a304e251f95cac5b339cacf177f3e67095203.jpg"},{"doctorName":"\u515a\u80b2","doctorTitle":"\u526f\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=141542","doctorPhoto":"https:\/\/ss0.baidu.com\/94o3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/d000baa1cd11728be1c5a319cefcc3cec3fd2c24.jpg"}]},{"officeName":"\u98ce\u6e7f\u514d\u75ab\u79d1","officeHref":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35510","officeDescription":"1","doctorList":[{"doctorName":"\u6768\u94c1\u751f","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140584","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/c8177f3e6709c93d6ac0a58b993df8dcd100549f.jpg"},{"doctorName":"\u5f20\u5b66\u6b66","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140652","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/9e3df8dcd100baa1efd9eec74110b912c9fc2ed0.jpg"},{"doctorName":"\u82cf\u8335","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139526","doctorPhoto":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/b3fb43166d224f4ab6d8db6f0ff790529822d10d.jpg"}]},{"officeName":"\u5987\u4ea7\u79d1","officeHref":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=63438","officeDescription":"1","doctorList":[{"doctorName":"\u5468\u656c\u4f1f","doctorTitle":"\u4e3b\u6cbb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=171564","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/ac4bd11373f08202177e38c24dfbfbedaa641b5a.jpg"}]},{"officeName":"\u5987\u79d1","officeHref":"http:\/\/yi.baidu.com\/pc\/admindepartment\/detail?zt=self&zt_ext=&pvid=1464532045824888&hosId=3204&adminDepartId=35491","officeDescription":"1","doctorList":[{"doctorName":"\u9b4f\u4e3d\u60e0","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=139507","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/32fa828ba61ea8d3ecb0da78910a304e251f583f.jpg"},{"doctorName":"\u5d14\u6052","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140906","doctorPhoto":"https:\/\/ss1.baidu.com\/9vo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/b7fd5266d0160924977b0b67d20735fae6cd346b.jpg"},{"doctorName":"\u6768\u6b23","doctorTitle":"\u4e3b\u4efb\u533b\u5e08","doctorHref":"http:\/\/yi.baidu.com\/pc\/doctor\/detailpage?zt=self&zt_ext=&pvid=1464532045824888&doctorId=140873","doctorPhoto":"https:\/\/ss3.baidu.com\/-fo3dSag_xI4khGko9WTAnF6hhy\/dpp\/pic\/item\/c9fcc3cec3fdfc03bbc54bc4d23f8794a4c22608.jpg"}]}],"moreHospitalInfo":"http:\/\/yi.baidu.com\/pc\/hospital\/info?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName","moreCommonOffice":"http:\/\/yi.baidu.com\/pc\/hospital\/alldep?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName","moreUserEvaluation":"http:\/\/yi.baidu.com\/pc\/hospital\/evaluationpage?zt=self&zt_ext=&pvid=1464532045824888&key=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2&provId=0&cityId=0&regionId=0&date=&medTitle=0&departLevel1Id=0&departLevel2Id=0&page=1&pageSize=8&tab=&searchTag=0&serviceType=0&tabName=index&listType=hospitalName"},"activeTabIndex":"\u7efc\u5408","extInfo":1775});*/});});</script></html>
